@@ -1,2 +1,2 @@
-My frist readme
-Training git codes
+#My frist readme 
+#Training git codes
